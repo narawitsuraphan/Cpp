@@ -14,6 +14,7 @@ int main() {
 
         cout << "You dealt" << your_atk << "damage!";
         cout << "monster_hp" << monster_hp << "\n";
+        cout << "my test" "\n";
     }
     return 0;
 }
